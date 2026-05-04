@@ -1,0 +1,980 @@
+m255
+K4
+z2
+Z0 !s12c _opt1
+Z1 !s99 nomlopt
+R0
+R1
+R0
+R1
+!s12c _opt2
+R1
+R0
+R1
+Z2 !s12c _opt
+R1
+R2
+R1
+R2
+R1
+R2
+R1
+R2
+R1
+R2
+R1
+R2
+R1
+R2
+R1
+R2
+R1
+R2
+R1
+R2
+R1
+R2
+R1
+R2
+R1
+R2
+R1
+R2
+R1
+R2
+R1
+!s11f vlog 2024.1 2024.02, Feb  1 2024
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z3 dC:/questasim64_2024.1/examples
+T_opt
+!s110 1776830844
+VNLKa6MW[V_DfIG;V`d5`_1
+Z4 04 22 4 work tb_riscv_pipeline_mega fast 0
+=1-e884a5770f74-69e8497c-9a-242c
+R1
+Z5 !s12f OEM100
+Z6 !s12b OEM100
+Z7 !s124 OEM100
+Z8 o-quiet -auto_acc_if_foreign -work work +acc
+Z9 tCvgOpt 0
+n@_opt
+Z10 OL;O;2024.1;79
+R3
+T_opt1
+!s110 1777866422
+VU^i<=^RclZ68bP;nF`i>Q2
+R4
+=1-e884a5770f74-69f816b6-10c-d04
+R1
+R5
+R6
+R7
+R8
+R9
+n@_opt1
+R10
+vadder
+2C:/Users/Admin/Documents/GitHub/SRAM_RV32I-main/adder.v
+Z11 !s110 1777866410
+!i10b 1
+!s100 YUb4>]J2aB_gKQzR]2Z4F0
+IIaEnWIO8:S3@koU^IjV:Q2
+Z12 dC:/Users/Admin/Documents/GitHub/SRAM_RV32I-main
+Z13 w1776831144
+8C:/Users/Admin/Documents/GitHub/SRAM_RV32I-main/adder.v
+FC:/Users/Admin/Documents/GitHub/SRAM_RV32I-main/adder.v
+!i122 36
+Z14 L0 1 7
+Z15 VDg1SIo80bB@j0V0VzS_@n1
+Z16 OL;L;2024.1;79
+r1
+!s85 0
+31
+Z17 !s108 1777866410.000000
+!s107 C:/Users/Admin/Documents/GitHub/SRAM_RV32I-main/adder.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/Admin/Documents/GitHub/SRAM_RV32I-main/adder.v|
+!i113 0
+Z18 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R9
+valu
+2C:/Users/Admin/Documents/GitHub/SRAM_RV32I-main/alu.v
+R11
+!i10b 1
+!s100 :E6Bha;FCZmNAjZ;NK4VI0
+I^JBF8I@G[J03gMP0lMDBd3
+R12
+R13
+8C:/Users/Admin/Documents/GitHub/SRAM_RV32I-main/alu.v
+FC:/Users/Admin/Documents/GitHub/SRAM_RV32I-main/alu.v
+!i122 37
+L0 1 58
+R15
+R16
+r1
+!s85 0
+31
+R17
+!s107 C:/Users/Admin/Documents/GitHub/SRAM_RV32I-main/alu.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/Admin/Documents/GitHub/SRAM_RV32I-main/alu.v|
+!i113 0
+R18
+R9
+valu_decoder
+2C:/Users/Admin/Documents/GitHub/SRAM_RV32I-main/alu_decoder.v
+R11
+!i10b 1
+!s100 MCh4ZMXM<LgbQ;GmMZVmS1
+IJlWXPjPSRRA;dK9AfTF6D0
+R12
+R13
+8C:/Users/Admin/Documents/GitHub/SRAM_RV32I-main/alu_decoder.v
+FC:/Users/Admin/Documents/GitHub/SRAM_RV32I-main/alu_decoder.v
+!i122 38
+L0 1 51
+R15
+R16
+r1
+!s85 0
+31
+R17
+!s107 C:/Users/Admin/Documents/GitHub/SRAM_RV32I-main/alu_decoder.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/Admin/Documents/GitHub/SRAM_RV32I-main/alu_decoder.v|
+!i113 0
+R18
+R9
+vcontrol_unit
+2C:/Users/Admin/Documents/GitHub/SRAM_RV32I-main/control_unit.v
+R11
+!i10b 1
+!s100 b4jOnh<mQS7Z5KcW5VRbF3
+I^VSRWIdaU76giPCU6CNoz3
+R12
+R13
+8C:/Users/Admin/Documents/GitHub/SRAM_RV32I-main/control_unit.v
+FC:/Users/Admin/Documents/GitHub/SRAM_RV32I-main/control_unit.v
+!i122 39
+L0 1 57
+R15
+R16
+r1
+!s85 0
+31
+R17
+!s107 C:/Users/Admin/Documents/GitHub/SRAM_RV32I-main/control_unit.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/Admin/Documents/GitHub/SRAM_RV32I-main/control_unit.v|
+!i113 0
+R18
+R9
+vcsr_alu
+2C:/Users/Admin/Documents/GitHub/SRAM_RV32I-main/csr_alu.v
+R11
+!i10b 1
+!s100 G8H_jD0H?n6_^QmM=J98n0
+I@7]lmizl:=L>LOKId7Yj^2
+R12
+R13
+8C:/Users/Admin/Documents/GitHub/SRAM_RV32I-main/csr_alu.v
+FC:/Users/Admin/Documents/GitHub/SRAM_RV32I-main/csr_alu.v
+!i122 40
+L0 1 19
+R15
+R16
+r1
+!s85 0
+31
+R17
+!s107 C:/Users/Admin/Documents/GitHub/SRAM_RV32I-main/csr_alu.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/Admin/Documents/GitHub/SRAM_RV32I-main/csr_alu.v|
+!i113 0
+R18
+R9
+vcsr_file
+2C:/Users/Admin/Documents/GitHub/SRAM_RV32I-main/csr_file.v
+R11
+!i10b 1
+!s100 3=H1VYQ3[Ah11c0JLcj7O2
+I`aDQ1Vjh3coe=UJP4k2?]0
+R12
+R13
+8C:/Users/Admin/Documents/GitHub/SRAM_RV32I-main/csr_file.v
+FC:/Users/Admin/Documents/GitHub/SRAM_RV32I-main/csr_file.v
+!i122 41
+L0 1 70
+R15
+R16
+r1
+!s85 0
+31
+R17
+!s107 C:/Users/Admin/Documents/GitHub/SRAM_RV32I-main/csr_file.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/Admin/Documents/GitHub/SRAM_RV32I-main/csr_file.v|
+!i113 0
+R18
+R9
+vdata_memory
+2C:/Users/Admin/Documents/GitHub/SRAM_RV32I-main/data_memory.v
+R11
+!i10b 1
+!s100 PcWFnDT`Zl8FeN9@a`[H@1
+I3cIcOJSX2dK1AMnmo2AZW3
+R12
+R13
+8C:/Users/Admin/Documents/GitHub/SRAM_RV32I-main/data_memory.v
+FC:/Users/Admin/Documents/GitHub/SRAM_RV32I-main/data_memory.v
+!i122 42
+L0 1 75
+R15
+R16
+r1
+!s85 0
+31
+R17
+!s107 C:/Users/Admin/Documents/GitHub/SRAM_RV32I-main/data_memory.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/Admin/Documents/GitHub/SRAM_RV32I-main/data_memory.v|
+!i113 0
+R18
+R9
+vdecode_cycle
+2C:/Users/Admin/Documents/GitHub/SRAM_RV32I-main/decode_cycle.v
+Z19 !s110 1777866411
+!i10b 1
+!s100 B^nd<^ooefzfB>j0?Xd<i0
+IWo;]N4l9oDb@K2a=>dfK81
+R12
+R13
+8C:/Users/Admin/Documents/GitHub/SRAM_RV32I-main/decode_cycle.v
+FC:/Users/Admin/Documents/GitHub/SRAM_RV32I-main/decode_cycle.v
+!i122 43
+L0 1 83
+R15
+R16
+r1
+!s85 0
+31
+R17
+!s107 C:/Users/Admin/Documents/GitHub/SRAM_RV32I-main/decode_cycle.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/Admin/Documents/GitHub/SRAM_RV32I-main/decode_cycle.v|
+!i113 0
+R18
+R9
+vEF_SRAM_1024x32
+2C:/Users/Admin/Documents/GitHub/SRAM_RV32I-main/EF_SRAM_1024x32.v
+R19
+!i10b 1
+!s100 BoSGX2C0V_W4CalSZL36O1
+I6_><TM;SCWc6^l1j:X?L=1
+R12
+R13
+8C:/Users/Admin/Documents/GitHub/SRAM_RV32I-main/EF_SRAM_1024x32.v
+FC:/Users/Admin/Documents/GitHub/SRAM_RV32I-main/EF_SRAM_1024x32.v
+!i122 45
+L0 35 95
+R15
+R16
+r1
+!s85 0
+31
+Z20 !s108 1777866411.000000
+!s107 C:/Users/Admin/Documents/GitHub/SRAM_RV32I-main/EF_SRAM_1024x32.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/Admin/Documents/GitHub/SRAM_RV32I-main/EF_SRAM_1024x32.v|
+!i113 0
+R18
+R9
+n@e@f_@s@r@a@m_1024x32
+vEF_SRAM_1024x32_macro
+Z21 2C:/Users/Admin/Documents/GitHub/SRAM_RV32I-main/EF_SRAM_1024x32.tt_180V_25C.v
+R19
+!i10b 1
+!s100 l<K3iZYY;FIWi[n]?cg@01
+IJ1zkMngE=KZSdCWD5YPTQ3
+R12
+R13
+Z22 8C:/Users/Admin/Documents/GitHub/SRAM_RV32I-main/EF_SRAM_1024x32.tt_180V_25C.v
+Z23 FC:/Users/Admin/Documents/GitHub/SRAM_RV32I-main/EF_SRAM_1024x32.tt_180V_25C.v
+!i122 44
+L0 32 1089
+R15
+R16
+r1
+!s85 0
+31
+R20
+Z24 !s107 C:/Users/Admin/Documents/GitHub/SRAM_RV32I-main/EF_SRAM_1024x32.tt_180V_25C.v|
+Z25 !s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/Admin/Documents/GitHub/SRAM_RV32I-main/EF_SRAM_1024x32.tt_180V_25C.v|
+!i113 0
+R18
+R9
+n@e@f_@s@r@a@m_1024x32_macro
+vEF_SRAM_1024x32_memory_mode
+R21
+R19
+!i10b 1
+!s100 =B?PQ_k[94f9aGNJjKOL20
+I>?PNjZdi;@NL^mO20Ano^0
+R12
+R13
+R22
+R23
+!i122 44
+L0 1123 400
+R15
+R16
+r1
+!s85 0
+31
+R20
+R24
+R25
+!i113 0
+R18
+R9
+n@e@f_@s@r@a@m_1024x32_memory_mode
+vexecute_cycle
+2C:/Users/Admin/Documents/GitHub/SRAM_RV32I-main/execute_cycle.v
+R19
+!i10b 1
+!s100 EHhH16YR7A3?dV8oTLiB93
+Ima6n9McL;D]9?>1oYgf9f2
+R12
+R13
+8C:/Users/Admin/Documents/GitHub/SRAM_RV32I-main/execute_cycle.v
+FC:/Users/Admin/Documents/GitHub/SRAM_RV32I-main/execute_cycle.v
+!i122 46
+L0 1 85
+R15
+R16
+r1
+!s85 0
+31
+R20
+!s107 C:/Users/Admin/Documents/GitHub/SRAM_RV32I-main/execute_cycle.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/Admin/Documents/GitHub/SRAM_RV32I-main/execute_cycle.v|
+!i113 0
+R18
+R9
+vextend
+2C:/Users/Admin/Documents/GitHub/SRAM_RV32I-main/extend.v
+R19
+!i10b 1
+!s100 @2KjFB<2FPkYUFATSzz[H1
+I;5ZzS8nQ6RDW5g[iZ>bO93
+R12
+R13
+8C:/Users/Admin/Documents/GitHub/SRAM_RV32I-main/extend.v
+FC:/Users/Admin/Documents/GitHub/SRAM_RV32I-main/extend.v
+!i122 47
+L0 1 40
+R15
+R16
+r1
+!s85 0
+31
+R20
+!s107 C:/Users/Admin/Documents/GitHub/SRAM_RV32I-main/extend.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/Admin/Documents/GitHub/SRAM_RV32I-main/extend.v|
+!i113 0
+R18
+R9
+vfetch_cycle
+2C:/Users/Admin/Documents/GitHub/SRAM_RV32I-main/fetch_cycle.v
+R19
+!i10b 1
+!s100 J`4Cob;_KiD;ML7[@SLWi3
+Ih>HG>BYIMWbe9zWGY;;:m3
+R12
+R13
+8C:/Users/Admin/Documents/GitHub/SRAM_RV32I-main/fetch_cycle.v
+FC:/Users/Admin/Documents/GitHub/SRAM_RV32I-main/fetch_cycle.v
+!i122 48
+L0 1 62
+R15
+R16
+r1
+!s85 0
+31
+R20
+!s107 C:/Users/Admin/Documents/GitHub/SRAM_RV32I-main/fetch_cycle.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/Admin/Documents/GitHub/SRAM_RV32I-main/fetch_cycle.v|
+!i113 0
+R18
+R9
+vhazard_unit
+2C:/Users/Admin/Documents/GitHub/SRAM_RV32I-main/hazard_unit.v
+R19
+!i10b 1
+!s100 ??:SlJUCAhA5Db`dBL4Q92
+IS8NgWgm@aRikS87SYaich0
+R12
+w1777865387
+8C:/Users/Admin/Documents/GitHub/SRAM_RV32I-main/hazard_unit.v
+FC:/Users/Admin/Documents/GitHub/SRAM_RV32I-main/hazard_unit.v
+!i122 49
+L0 1 82
+R15
+R16
+r1
+!s85 0
+31
+R20
+!s107 C:/Users/Admin/Documents/GitHub/SRAM_RV32I-main/hazard_unit.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/Admin/Documents/GitHub/SRAM_RV32I-main/hazard_unit.v|
+!i113 0
+R18
+R9
+vinstruction_memory
+2C:/Users/Admin/Documents/GitHub/SRAM_RV32I-main/instruction_memory.v
+R19
+!i10b 1
+!s100 ;R4l?14W0U>;4h^cie]=d3
+Ig`C@SGJ4TS;mXcoceoeco0
+R12
+R13
+8C:/Users/Admin/Documents/GitHub/SRAM_RV32I-main/instruction_memory.v
+FC:/Users/Admin/Documents/GitHub/SRAM_RV32I-main/instruction_memory.v
+!i122 50
+L0 1 41
+R15
+R16
+r1
+!s85 0
+31
+R20
+!s107 C:/Users/Admin/Documents/GitHub/SRAM_RV32I-main/instruction_memory.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/Admin/Documents/GitHub/SRAM_RV32I-main/instruction_memory.v|
+!i113 0
+R18
+R9
+vl1_dcache
+2C:/Users/Admin/Documents/GitHub/SRAM_RV32I-main/l1_dcache.v
+R19
+!i10b 1
+!s100 DE6JZ1?C7e0@BJcTAOK<Z3
+IA3YM;SzD=8?]AJnH@KLAg2
+R12
+R13
+8C:/Users/Admin/Documents/GitHub/SRAM_RV32I-main/l1_dcache.v
+FC:/Users/Admin/Documents/GitHub/SRAM_RV32I-main/l1_dcache.v
+!i122 52
+L0 1 135
+R15
+R16
+r1
+!s85 0
+31
+R20
+!s107 C:/Users/Admin/Documents/GitHub/SRAM_RV32I-main/l1_dcache.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/Admin/Documents/GitHub/SRAM_RV32I-main/l1_dcache.v|
+!i113 0
+R18
+R9
+vl1_icache
+2C:/Users/Admin/Documents/GitHub/SRAM_RV32I-main/l1_cache.v
+R19
+!i10b 1
+!s100 42kThPNRC8AWkPjI7G?8[1
+IJXj<UfozJ78;1bj=U^eAi3
+R12
+R13
+8C:/Users/Admin/Documents/GitHub/SRAM_RV32I-main/l1_cache.v
+FC:/Users/Admin/Documents/GitHub/SRAM_RV32I-main/l1_cache.v
+!i122 51
+L0 1 72
+R15
+R16
+r1
+!s85 0
+31
+R20
+!s107 C:/Users/Admin/Documents/GitHub/SRAM_RV32I-main/l1_cache.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/Admin/Documents/GitHub/SRAM_RV32I-main/l1_cache.v|
+!i113 0
+R18
+R9
+vmain_decoder
+2C:/Users/Admin/Documents/GitHub/SRAM_RV32I-main/main_decoder.v
+R19
+!i10b 1
+!s100 88Tof^7@WM@UJ@f=hBlB02
+IU:nURo6Pz0zZ8^JcaQ[n_2
+R12
+R13
+8C:/Users/Admin/Documents/GitHub/SRAM_RV32I-main/main_decoder.v
+FC:/Users/Admin/Documents/GitHub/SRAM_RV32I-main/main_decoder.v
+!i122 53
+L0 1 80
+R15
+R16
+r1
+!s85 0
+31
+R20
+!s107 C:/Users/Admin/Documents/GitHub/SRAM_RV32I-main/main_decoder.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/Admin/Documents/GitHub/SRAM_RV32I-main/main_decoder.v|
+!i113 0
+R18
+R9
+vmemory_cycle
+2C:/Users/Admin/Documents/GitHub/SRAM_RV32I-main/memory_cycle.v
+R19
+!i10b 1
+!s100 Jb;UE[SAA@E_QKWon82J41
+IK8EdYoW3SI6OA?^ETWB[m2
+R12
+w1777866241
+8C:/Users/Admin/Documents/GitHub/SRAM_RV32I-main/memory_cycle.v
+FC:/Users/Admin/Documents/GitHub/SRAM_RV32I-main/memory_cycle.v
+!i122 54
+L0 1 55
+R15
+R16
+r1
+!s85 0
+31
+R20
+!s107 C:/Users/Admin/Documents/GitHub/SRAM_RV32I-main/memory_cycle.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/Admin/Documents/GitHub/SRAM_RV32I-main/memory_cycle.v|
+!i113 0
+R18
+R9
+vmux
+Z26 2C:/Users/Admin/Documents/GitHub/SRAM_RV32I-main/mux.v
+R19
+!i10b 1
+!s100 K]Hl`ZozQ2cWiL^A>kJBd3
+II]Ta^BP?h6<SlX3gSWEQ]1
+R12
+R13
+Z27 8C:/Users/Admin/Documents/GitHub/SRAM_RV32I-main/mux.v
+Z28 FC:/Users/Admin/Documents/GitHub/SRAM_RV32I-main/mux.v
+!i122 55
+R14
+R15
+R16
+r1
+!s85 0
+31
+R20
+Z29 !s107 C:/Users/Admin/Documents/GitHub/SRAM_RV32I-main/mux.v|
+Z30 !s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/Admin/Documents/GitHub/SRAM_RV32I-main/mux.v|
+!i113 0
+R18
+R9
+vmux_3_1
+R26
+R19
+!i10b 1
+!s100 olhBOS>U5=S0eQ:j`o20W2
+IZY0@9b_2Pzc?QoG_^cm_`0
+R12
+R13
+R27
+R28
+!i122 55
+L0 9 13
+R15
+R16
+r1
+!s85 0
+31
+R20
+R29
+R30
+!i113 0
+R18
+R9
+vmux_4to1
+R26
+R19
+!i10b 1
+!s100 IL@gG2Sl_KfZNQ5VO]?B[0
+I0i3cEBWA7hT^:FkOj0Nko0
+R12
+R13
+R27
+R28
+!i122 55
+L0 24 18
+R15
+R16
+r1
+!s85 0
+31
+R20
+R29
+R30
+!i113 0
+R18
+R9
+vpc
+2C:/Users/Admin/Documents/GitHub/SRAM_RV32I-main/pc.v
+R19
+!i10b 1
+!s100 V[cU=FEKIBMKe8CClej=?2
+I;`eZWHk:i^05c09JZP`LV3
+R12
+R13
+8C:/Users/Admin/Documents/GitHub/SRAM_RV32I-main/pc.v
+FC:/Users/Admin/Documents/GitHub/SRAM_RV32I-main/pc.v
+!i122 56
+L0 1 27
+R15
+R16
+r1
+!s85 0
+31
+R20
+!s107 C:/Users/Admin/Documents/GitHub/SRAM_RV32I-main/pc.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/Admin/Documents/GitHub/SRAM_RV32I-main/pc.v|
+!i113 0
+R18
+R9
+vpipeline_1_2
+Z31 2C:/Users/Admin/Documents/GitHub/SRAM_RV32I-main/pipeline.v
+R19
+!i10b 1
+!s100 hLdbk>Sf1WEYD1>9az4PB3
+Im]SP=Sf685`<i5Icdj^KA0
+R12
+R13
+Z32 8C:/Users/Admin/Documents/GitHub/SRAM_RV32I-main/pipeline.v
+Z33 FC:/Users/Admin/Documents/GitHub/SRAM_RV32I-main/pipeline.v
+!i122 57
+L0 2 39
+R15
+R16
+r1
+!s85 0
+31
+R20
+Z34 !s107 C:/Users/Admin/Documents/GitHub/SRAM_RV32I-main/pipeline.v|
+Z35 !s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/Admin/Documents/GitHub/SRAM_RV32I-main/pipeline.v|
+!i113 0
+R18
+R9
+vpipeline_2_3
+R31
+R19
+!i10b 1
+!s100 [cbiM^ki2URPB@nzK4Hh73
+IIlaNK;P]XCKQD=XO8h?7;3
+R12
+R13
+R32
+R33
+!i122 57
+L0 43 123
+R15
+R16
+r1
+!s85 0
+31
+R20
+R34
+R35
+!i113 0
+R18
+R9
+vpipeline_3_4
+R31
+R19
+!i10b 1
+!s100 mEDH2<DFfNf>zZ]<_F5iN3
+IK?20ojACKAQmMl>0SSQZg0
+R12
+R13
+R32
+R33
+!i122 57
+L0 168 89
+R15
+R16
+r1
+!s85 0
+31
+R20
+R34
+R35
+!i113 0
+R18
+R9
+vpipeline_4_5
+R31
+R19
+!i10b 1
+!s100 YElmGbUH?[@@BAhlO6Uz13
+ISScV>k_8JQk1?zREjUk6J1
+R12
+R13
+R32
+R33
+!i122 57
+L0 260 79
+R15
+R16
+r1
+!s85 0
+31
+R20
+R34
+R35
+!i113 0
+R18
+R9
+vregister_file
+2C:/Users/Admin/Documents/GitHub/SRAM_RV32I-main/register_file.v
+Z36 !s110 1777866412
+!i10b 1
+!s100 U2dj`:5GSYTc<WcS^UV<D2
+I1]Wm3T]TgCJCZQ0_Z>FW53
+R12
+R13
+8C:/Users/Admin/Documents/GitHub/SRAM_RV32I-main/register_file.v
+FC:/Users/Admin/Documents/GitHub/SRAM_RV32I-main/register_file.v
+!i122 58
+L0 3 43
+R15
+R16
+r1
+!s85 0
+31
+Z37 !s108 1777866412.000000
+!s107 C:/Users/Admin/Documents/GitHub/SRAM_RV32I-main/register_file.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/Admin/Documents/GitHub/SRAM_RV32I-main/register_file.v|
+!i113 0
+R18
+R9
+vriscv_pipeline_top
+2C:/Users/Admin/Documents/GitHub/SRAM_RV32I-main/top_module.v
+R36
+!i10b 1
+!s100 SlAKDUULdoNI9<Y;16_;C0
+I>Pd_HzAX=gbD<SNXIEX>b0
+R12
+w1777866363
+8C:/Users/Admin/Documents/GitHub/SRAM_RV32I-main/top_module.v
+FC:/Users/Admin/Documents/GitHub/SRAM_RV32I-main/top_module.v
+!i122 67
+L0 1 425
+R15
+R16
+r1
+!s85 0
+31
+R37
+!s107 C:/Users/Admin/Documents/GitHub/SRAM_RV32I-main/top_module.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/Admin/Documents/GitHub/SRAM_RV32I-main/top_module.v|
+!i113 0
+R18
+R9
+vsram_arbiter
+2C:/Users/Admin/Documents/GitHub/SRAM_RV32I-main/sram_arbiter.v
+R36
+!i10b 1
+!s100 gF^6023z5ZWe_jKW=[N@J1
+Io]VoOnoX`KUGmIH0<4SL20
+R12
+w1777865221
+8C:/Users/Admin/Documents/GitHub/SRAM_RV32I-main/sram_arbiter.v
+FC:/Users/Admin/Documents/GitHub/SRAM_RV32I-main/sram_arbiter.v
+!i122 59
+L0 1 81
+R15
+R16
+r1
+!s85 0
+31
+R37
+!s107 C:/Users/Admin/Documents/GitHub/SRAM_RV32I-main/sram_arbiter.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/Admin/Documents/GitHub/SRAM_RV32I-main/sram_arbiter.v|
+!i113 0
+R18
+R9
+vtb_decode_cycle
+2C:/Users/Admin/Documents/GitHub/SRAM_RV32I-main/tb_id.v
+R36
+!i10b 1
+!s100 HJZCA6fZcC2n9XGRf7FOV2
+II=Hj[NfaWaN>GBcDN;JV[2
+R12
+R13
+8C:/Users/Admin/Documents/GitHub/SRAM_RV32I-main/tb_id.v
+FC:/Users/Admin/Documents/GitHub/SRAM_RV32I-main/tb_id.v
+!i122 62
+L0 3 80
+R15
+R16
+r1
+!s85 0
+31
+R37
+!s107 C:/Users/Admin/Documents/GitHub/SRAM_RV32I-main/tb_id.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/Admin/Documents/GitHub/SRAM_RV32I-main/tb_id.v|
+!i113 0
+R18
+R9
+vtb_execute_cycle
+2C:/Users/Admin/Documents/GitHub/SRAM_RV32I-main/tb_ex.v
+R36
+!i10b 1
+!s100 nJg=kVg`g71NZ126k?D`U1
+IZKMQ:EmWf376JSc1::cNg1
+R12
+R13
+8C:/Users/Admin/Documents/GitHub/SRAM_RV32I-main/tb_ex.v
+FC:/Users/Admin/Documents/GitHub/SRAM_RV32I-main/tb_ex.v
+!i122 60
+L0 3 87
+R15
+R16
+r1
+!s85 0
+31
+R37
+!s107 C:/Users/Admin/Documents/GitHub/SRAM_RV32I-main/tb_ex.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/Admin/Documents/GitHub/SRAM_RV32I-main/tb_ex.v|
+!i113 0
+R18
+R9
+vtb_fetch_cycle
+2C:/Users/Admin/Documents/GitHub/SRAM_RV32I-main/tb_if.v
+R36
+!i10b 1
+!s100 ]SCd0TQg]0:>?:T5ljDDU2
+IUo1lkUzj:FG4mRb1RH9SO2
+R12
+R13
+8C:/Users/Admin/Documents/GitHub/SRAM_RV32I-main/tb_if.v
+FC:/Users/Admin/Documents/GitHub/SRAM_RV32I-main/tb_if.v
+!i122 63
+L0 3 63
+R15
+R16
+r1
+!s85 0
+31
+R37
+!s107 C:/Users/Admin/Documents/GitHub/SRAM_RV32I-main/tb_if.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/Admin/Documents/GitHub/SRAM_RV32I-main/tb_if.v|
+!i113 0
+R18
+R9
+vtb_memory_cycle
+2C:/Users/Admin/Documents/GitHub/SRAM_RV32I-main/tb_mem.v
+R36
+!i10b 1
+!s100 103dOgfSUS[TXSI_Q0jZk3
+Ig6=bG8Xb@V1mONZDZ2`6l2
+R12
+R13
+8C:/Users/Admin/Documents/GitHub/SRAM_RV32I-main/tb_mem.v
+FC:/Users/Admin/Documents/GitHub/SRAM_RV32I-main/tb_mem.v
+!i122 64
+L0 3 56
+R15
+R16
+r1
+!s85 0
+31
+R37
+!s107 C:/Users/Admin/Documents/GitHub/SRAM_RV32I-main/tb_mem.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/Admin/Documents/GitHub/SRAM_RV32I-main/tb_mem.v|
+!i113 0
+R18
+R9
+vtb_riscv_pipeline_full
+2C:/Users/Admin/Documents/GitHub/SRAM_RV32I-main/tb_top.v
+R36
+!i10b 1
+!s100 cHTL[^U1idzQFk@?e^WeT3
+IcTeDBLDa7T^z4_:QX>Rbi0
+R12
+R13
+8C:/Users/Admin/Documents/GitHub/SRAM_RV32I-main/tb_top.v
+FC:/Users/Admin/Documents/GitHub/SRAM_RV32I-main/tb_top.v
+!i122 65
+L0 3 68
+R15
+R16
+r1
+!s85 0
+31
+R37
+!s107 C:/Users/Admin/Documents/GitHub/SRAM_RV32I-main/tb_top.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/Admin/Documents/GitHub/SRAM_RV32I-main/tb_top.v|
+!i113 0
+R18
+R9
+vtb_riscv_pipeline_mega
+2C:/Users/Admin/Documents/GitHub/SRAM_RV32I-main/tb_full.v
+R36
+!i10b 1
+!s100 d<9agPB`hWX553kKh93`f0
+IH0:nUXiSA<EALE^mgg^643
+R12
+w1777866004
+8C:/Users/Admin/Documents/GitHub/SRAM_RV32I-main/tb_full.v
+FC:/Users/Admin/Documents/GitHub/SRAM_RV32I-main/tb_full.v
+!i122 61
+L0 3 173
+R15
+R16
+r1
+!s85 0
+31
+R37
+!s107 C:/Users/Admin/Documents/GitHub/SRAM_RV32I-main/tb_full.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/Admin/Documents/GitHub/SRAM_RV32I-main/tb_full.v|
+!i113 0
+R18
+R9
+vtb_writeback_cycle
+2C:/Users/Admin/Documents/GitHub/SRAM_RV32I-main/tb_wb.v
+R36
+!i10b 1
+!s100 C^:ghVo_<9POCHfSW?TCL1
+I=hVn1QeMUDfHGFAmN=aT>1
+R12
+R13
+8C:/Users/Admin/Documents/GitHub/SRAM_RV32I-main/tb_wb.v
+FC:/Users/Admin/Documents/GitHub/SRAM_RV32I-main/tb_wb.v
+!i122 66
+L0 3 53
+R15
+R16
+r1
+!s85 0
+31
+R37
+!s107 C:/Users/Admin/Documents/GitHub/SRAM_RV32I-main/tb_wb.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/Admin/Documents/GitHub/SRAM_RV32I-main/tb_wb.v|
+!i113 0
+R18
+R9
+vwriteback_cycle
+2C:/Users/Admin/Documents/GitHub/SRAM_RV32I-main/writeback_cycle.v
+R36
+!i10b 1
+!s100 4Mn8jJm6gO^d5>DPKMhWQ1
+IL9NBGBdj:E9gEZ66kbf8W0
+R12
+R13
+8C:/Users/Admin/Documents/GitHub/SRAM_RV32I-main/writeback_cycle.v
+FC:/Users/Admin/Documents/GitHub/SRAM_RV32I-main/writeback_cycle.v
+!i122 68
+L0 1 20
+R15
+R16
+r1
+!s85 0
+31
+R37
+!s107 C:/Users/Admin/Documents/GitHub/SRAM_RV32I-main/writeback_cycle.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/Admin/Documents/GitHub/SRAM_RV32I-main/writeback_cycle.v|
+!i113 0
+R18
+R9

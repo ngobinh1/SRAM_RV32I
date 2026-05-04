@@ -1,0 +1,15 @@
+0
+52 C:/Users/Admin/Documents/GitHub/SRAM_RV32I-main/work 12 control_unit 4 fast 0 0 94 0 0
+52 C:/Users/Admin/Documents/GitHub/SRAM_RV32I-main/work 15 EF_SRAM_1024x32 4 fast 0 0 82 0 0
+52 C:/Users/Admin/Documents/GitHub/SRAM_RV32I-main/work 12 pipeline_1_2 4 fast 0 0 80 0 0
+52 C:/Users/Admin/Documents/GitHub/SRAM_RV32I-main/work 6 extend 4 fast 0 0 80 128 0
+52 C:/Users/Admin/Documents/GitHub/SRAM_RV32I-main/work 13 register_file 4 fast 0 0 79 0 0
+52 C:/Users/Admin/Documents/GitHub/SRAM_RV32I-main/work 11 fetch_cycle 4 fast 0 0 58 0 0
+52 C:/Users/Admin/Documents/GitHub/SRAM_RV32I-main/work 11 alu_decoder 4 fast 0 0 49 0 0
+52 C:/Users/Admin/Documents/GitHub/SRAM_RV32I-main/work 7 csr_alu 4 fast 0 0 41 0 0
+52 C:/Users/Admin/Documents/GitHub/SRAM_RV32I-main/work 8 mux_4to1 4 fast 0 0 36 0 0
+52 C:/Users/Admin/Documents/GitHub/SRAM_RV32I-main/work 2 pc 4 fast 0 0 36 0 0
+52 C:/Users/Admin/Documents/GitHub/SRAM_RV32I-main/work 7 mux_3_1 4 fast 0 0 21 0 0
+52 C:/Users/Admin/Documents/GitHub/SRAM_RV32I-main/work 15 writeback_cycle 4 fast 0 0 19 0 0
+52 C:/Users/Admin/Documents/GitHub/SRAM_RV32I-main/work 3 mux 4 fast 0 0 13 0 0
+52 C:/Users/Admin/Documents/GitHub/SRAM_RV32I-main/work 5 adder 4 fast 0 0 10 0 0
